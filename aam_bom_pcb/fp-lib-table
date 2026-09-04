@@ -1,0 +1,12 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BQ25120AYFPR") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/BQ25120AYFPR") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/IM72D128V01XTMA1/KiCad") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "IM72D128V01XTMA1") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty/IM72D128V01XTMA1.pretty") (options "") (descr ""))
+	(lib (name "IM72D128V01XTMA1") (type "KiCad") (uri "${KIPRJMOD}/IM72D128V01XTMA1.pretty") (options "") (descr ""))
+	(lib (name "B125120AYFPR") (type "KiCad") (uri "${KIPRJMOD}/B125120AYFPR.pretty") (options "") (descr ""))
+	(lib (name "TLV320DAC3203IRGER") (type "KiCad") (uri "${KIPRJMOD}/TLV320DAC3203IRGER.pretty") (options "") (descr ""))
+	(lib (name "D5V0M1U2S97") (type "KiCad") (uri "${KIPRJMOD}/D5V0M1U2S97.pretty") (options "") (descr ""))
+	(lib (name "USB  C 16 PIN") (type "KiCad") (uri "${KIPRJMOD}/USB  C 16 PIN.pretty") (options "") (descr ""))
+)

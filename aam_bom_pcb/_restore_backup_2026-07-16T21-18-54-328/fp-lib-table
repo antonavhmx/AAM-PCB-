@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BQ25120AYFPR") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/BQ25120AYFPR") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/IM72D128V01XTMA1/KiCad") (options "") (descr ""))
+)

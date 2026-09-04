@@ -1,0 +1,283 @@
+(footprint "IM72D128V01XTMA1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "4mm x 3mm x 1.2mm")
+	(tags "Microphone")
+	(property "Reference" "MK**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "c50a4f0a-4c24-4077-b9b1-421d490a3966")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "IM72D128V01XTMA1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6b4647b8-04e9-4d8d-bacd-5975ddb1cdb3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5576af2-2986-425e-a7af-8b5cb3143850")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e9fb1be-3e17-4c9a-a2cc-41f3677f7dad")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.5 -0.4)
+		(end -1.5 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1735f708-6d74-4714-9671-15c19605323b")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end -0.8 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24102b3e-e5ac-423e-a38b-2b4ad4ac4eb4")
+	)
+	(fp_line
+		(start 1.5 -0.4)
+		(end 1.5 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5260d22-0a02-4b1e-aa81-674cbcf0f086")
+	)
+	(fp_line
+		(start 1.5 2)
+		(end 0.8 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e080600-b105-4cd9-b5ae-075ae9fdd875")
+	)
+	(fp_line
+		(start 2 -1.6)
+		(end 2 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "faaf5b00-7787-45df-b46e-63ab02f65e8d")
+	)
+	(fp_line
+		(start 2 -1.5)
+		(end 2 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40805848-5315-4f46-bebb-78b281a1d51f")
+	)
+	(fp_arc
+		(start 2 -1.6)
+		(mid 2.05 -1.55)
+		(end 2 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98501bb1-f64e-4476-88ab-2ba00927f605")
+	)
+	(fp_arc
+		(start 2 -1.5)
+		(mid 1.95 -1.55)
+		(end 2 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1869103-f7cc-4d1e-9bed-b3bf37b30982")
+	)
+	(fp_line
+		(start -2.5 -3)
+		(end 2.5 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "64dae8c1-d58a-4176-b3d1-d332cf846028")
+	)
+	(fp_line
+		(start -2.5 3)
+		(end -2.5 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8b6965a-1308-4a21-939a-a716d52a9945")
+	)
+	(fp_line
+		(start 2.5 -3)
+		(end 2.5 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2ae27409-1a57-45a2-9395-f6043d8939a2")
+	)
+	(fp_line
+		(start 2.5 3)
+		(end -2.5 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "656264c6-c969-4547-85e1-710834d9de70")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end 1.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "32897c3d-2dff-4fa6-8c17-61495bca43d8")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end -1.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5f5fad25-e4fd-44d3-90ad-d78a4b6af839")
+	)
+	(fp_line
+		(start 1.5 -2)
+		(end 1.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "40473867-2d8a-4590-8179-3676a7dc6c7d")
+	)
+	(fp_line
+		(start 1.5 2)
+		(end -1.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d37096b6-83f0-4312-81d5-976a30550dfe")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f788d60d-7132-4c03-b97b-341c8255c7af")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.85 -1.5 90)
+		(size 0.45 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d7448df6-3821-4908-9fe2-64a0d3c77f26")
+	)
+	(pad "2" smd rect
+		(at 0.85 -0.8 90)
+		(size 0.45 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0cb81341-ffe1-4989-a427-a100f97aefa8")
+	)
+	(pad "3" smd rect
+		(at -0.85 -1.5 90)
+		(size 0.45 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "81eb66b5-306b-4666-ab02-449f54e40cca")
+	)
+	(pad "4" smd rect
+		(at -0.85 -0.8 90)
+		(size 0.45 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "07a7400a-4c81-4a7a-96f4-c7829b533fbf")
+	)
+	(pad "5" thru_hole circle
+		(at 0 0.68)
+		(size 2.08 2.08)
+		(drill 1.16)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6b46190e-00d2-4558-8a19-84474fc09d97")
+	)
+	(embedded_fonts no)
+	(model "IM72D128V01XTMA1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
+	(model "C:/Users/anton/Documents/Componentes AAM Project/IM72D128V01XTMA1/infineon-pg-llga-5-3-3d-stp-package-en.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

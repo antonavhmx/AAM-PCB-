@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BQ25120AYFPR") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/BQ25120AYFPR/BQ25120AYFPR.kicad_sym") (options "") (descr ""))
+	(lib (name "STM32WB5MMGH6TR") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/STM32WB5MMGH6TR/STM32WB5MMGH6TR.kicad_sym") (options "") (descr ""))
+	(lib (name "IM72D128V01XTMA1") (type "KiCad") (uri "C:/Users/anton/Documents/Componentes AAM Project/IM72D128V01XTMA1/KiCad/IM72D128V01XTMA1.kicad_sym") (options "") (descr ""))
+)
