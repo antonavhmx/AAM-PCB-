@@ -41,4 +41,4 @@ Este repositorio contiene el diseño de hardware y los archivos de manufactura i
 Este proyecto de hardware fue desarrollado de manera colaborativa, dividiendo el diseño lógico de la implementación física:
 
 *   **Nava Hernández José Antonio**: Autoría intelectual del proyecto, diseño de la lógica del sistema y captura del esquemático original.
-tecnología HDI), validación de reglas de manufactura (DRC) y generación del paquete industrial (Gerber/Drill).
+*   **Emilio Severo Bernal López**: Ruteo y layout de la PCB (4 capas con tecnología HDI), validación de reglas de manufactura (DRC) y generación del paquete industrial (Gerber/Drill).
