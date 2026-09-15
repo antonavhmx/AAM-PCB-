@@ -36,4 +36,4 @@ Este repositorio contiene el diseño de hardware y los archivos de manufactura i
 *   `/gerbers/`: Paquete de manufactura industrial empaquetado (Archivos Gerber X2 y taladros Excellon Drill), validado y listo para fabricación y ensamble (PCBA).
 
 ---
-*Diseño y layout a cargo de Emilio Severo Bernal López, Ingeniero en Comunicaciones y Electrónica.*
+*Layout de PCB, ruteo de alta densidad y preparación para manufactura a cargo de Emilio Severo Bernal López, Ingeniero en Comunicaciones y Electrónica.*
