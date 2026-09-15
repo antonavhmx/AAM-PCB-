@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.6299999952316284
     },
     "prototype_zone_fills": false,
     "selection_filter": {
@@ -53,7 +53,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_0000208a_88000015",
+    "visible_layers": "00000000_00000000_00002082_80000055",
     "zone_display_mode": 0
   },
   "git": {
@@ -96,14 +96,14 @@
       11
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      102,
-      97,
-      107,
-      108,
-      107,
+      163,
+      148,
+      113,
+      128,
+      121,
+      134,
+      135,
+      134,
       91,
       91,
       91,
