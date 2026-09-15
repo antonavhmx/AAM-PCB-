@@ -5,15 +5,15 @@ Este repositorio contiene el diseño de hardware y los archivos de manufactura i
 ## 📸 Vistas del Proyecto
 
 ### Ruteo de Alta Densidad (Layout 2D)
-![Vista 2D del Ruteo](boceto.png)
+![Vista 2D del Ruteo](aam_bom_pcb/boceto.png)
 *Detalle del ruteo multicapa mostrando el abanico de salida del BGA, conexiones del PMIC y gestión de tolerancias DRC.*
 
 ### Renderizado 3D (Ensamblaje)
 **Capa Superior (Top):**
-![Vista 3D Superior](boceto1.png)
+![Vista 3D Superior](aam_bom_pcb/boceto1.png)
 
 **Capa Inferior (Bottom):**
-![Vista 3D Inferior](boceto2.png)
+![Vista 3D Inferior](aam_bom_pcb/boceto2.png)
 
 ## ⚙️ Especificaciones Técnicas
 
