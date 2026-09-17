@@ -36,4 +36,9 @@ Este repositorio contiene el diseño de hardware y los archivos de manufactura i
 *   `/gerbers/`: Paquete de manufactura industrial empaquetado (Archivos Gerber X2 y taladros Excellon Drill), validado y listo para fabricación y ensamble (PCBA).
 
 ---
-*Layout de PCB, ruteo de alta densidad y preparación para manufactura a cargo de Emilio Severo Bernal López, Ingeniero en Comunicaciones y Electrónica.*
+## 👥 Créditos y Equipo de Trabajo
+
+Este proyecto de hardware fue desarrollado de manera colaborativa, dividiendo el diseño lógico de la implementación física:
+
+*   **Nava Hernández José Antonio**: Autoría intelectual del proyecto, diseño de la lógica del sistema y captura del esquemático original.
+*   **Emilio Severo Bernal López**: Ruteo y layout de la PCB (4 capas con tecnología HDI), validación de reglas de manufactura (DRC) y generación del paquete industrial (Gerber/Drill).
